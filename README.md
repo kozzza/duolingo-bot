@@ -1,2 +1,2 @@
-# duolingo-bot
-Bot to solve duolingo questions (for Spanish)
+# Duolingo Bot
+A bot that does duolingo questions for you using Python and Applescript
